@@ -11,8 +11,8 @@ To load the driver, you can use [KdMapper](https://github.com/TheCruZ/kdmapper) 
 
 ## Sources
 
-https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/defining-i-o-control-codes 
-https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/ns-wdm-_io_stack_location
-https://gist.github.com/muturikaranja/b7d4b59c72611e76aed94b2f0bf33aa2
-https://github.com/DErDYAST1R/PsLoadedModuleList-Dkom-Unlinking
-https://github.com/roflmuffin/CounterStrikeSharp/blob/main/managed/CounterStrikeSharp.API/Modules/Entities/EntitySystem.cs
+[Defining IoCtl codes](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/defining-i-o-control-codes)
+[IoStackLocation](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/ns-wdm-_io_stack_location)
+[PsLoadedModuleList Unlinking](https://gist.github.com/muturikaranja/b7d4b59c72611e76aed94b2f0bf33aa2)
+[PsLoadedModuleList Unlinking](https://github.com/DErDYAST1R/PsLoadedModuleList-Dkom-Unlinking)
+[Cs2 Entity Finding](https://github.com/roflmuffin/CounterStrikeSharp/blob/main/managed/CounterStrikeSharp.API/Modules/Entities/EntitySystem.cs)
