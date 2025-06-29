@@ -5,6 +5,9 @@
 
 A simple UserMode-KernelMode driver with communication implemented via IOCTL codes.
 
+## Installation
+You will need to install the latest version of Visual Studio 2022 and run it as Administrator to compile the project.
+
 ## Usage
 
 To load the driver, you can use [KdMapper](https://github.com/TheCruZ/kdmapper) (or any other driver loading tool). Keep in mind that this project was tested solely with a basic bunnyhop for CS2, and may require further adaptation for other use cases.
