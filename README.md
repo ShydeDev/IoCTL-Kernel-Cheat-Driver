@@ -14,6 +14,7 @@ To load the driver, you can use [KdMapper](https://github.com/TheCruZ/kdmapper) 
 
 ## Sources
 
+INSPIRED BY @cazzwastaken ❤️
 [Defining IoCtl codes](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/defining-i-o-control-codes)
 [IoStackLocation](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/ns-wdm-_io_stack_location)
 [PsLoadedModuleList Unlinking](https://gist.github.com/muturikaranja/b7d4b59c72611e76aed94b2f0bf33aa2)
